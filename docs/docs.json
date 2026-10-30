@@ -23,6 +23,12 @@
           "quick-start/chat-cloud",
           "quick-start/chat-structured-output"
         ]
+      },
+      {
+        "group": "Contributing",
+        "pages": [
+          "contributing"
+        ]
       }
     ],
     "global": {
